@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,I+am+Adi)](https://git.io/typing-svg)
+
+
+
 🌟 Aspiring Web Developer | HTML, CSS & JavaScript Enthusiast | Python Aficionado 🌟
 
 👋 Hi there! I'm on a journey to master the fundamentals of web development with HTML, CSS, and JavaScript. I'm passionate about creating visually appealing and user-friendly web applications.
