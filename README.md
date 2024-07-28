@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?Font=Fira+Code&size=20&pause=1000&lines=Hi,I+am+Adrijo+Bhowmik)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?Font=Fira+Code&size=20&pause=1000&color=#e7302a&lines=Hi,I+am+Adrijo+Bhowmik)](https://git.io/typing-svg)
 
 🌟 Aspiring Web Developer | HTML, CSS & JavaScript Enthusiast | Python Aficionado 🌟
 
